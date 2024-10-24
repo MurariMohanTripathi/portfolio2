@@ -46,7 +46,7 @@ const projectList = [
     title: "Food Ordering Website",
     description:
       "Developed a simple food ordering platform using HTML, CSS, and JavaScript",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: " https://murarimohantripathi.github.io/foodOrder/",
   },
   {
     title: "Tic Tac Toe",
